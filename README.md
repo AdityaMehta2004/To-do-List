@@ -1,1 +1,1 @@
-this a to-do-list project, go on index.html to go to the main page
+this a to-do-list project, made by using html,css and js.
